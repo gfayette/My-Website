@@ -40,9 +40,6 @@ export default class Home extends React.Component {
                     <p style={textcss}>
                         Welcome to my website! I hope you liked that fancy welcome screen because there isn't much content here right now :P
                     </p>
-                    <p style={textcss}>
-                        Maybe I should start a tech blog.
-                    </p>
                 </div>
             </div >
         )
