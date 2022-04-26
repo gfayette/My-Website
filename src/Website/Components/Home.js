@@ -38,7 +38,17 @@ export default class Home extends React.Component {
                         Hello There!
                     </div>
                     <p style={textcss}>
-                        Welcome to my website! I hope you liked that fancy welcome screen because there isn't much content here right now :P
+                        Welcome to my website! Allow me to introduce myself... 
+                    </p>
+                    <p style={textcss}>
+                        My name is George. I'm a software engineer with experience building applications ranging from small websites for local businesses, 
+                        to enterprise systems for large corporations. I'm a skilled coder across all areas of the modern technology stack. 
+                        From front-end to back-end, low-level system programming to high-level object-oriented designs - I just love to code!
+                    </p>
+                    <p style={textcss}>
+                        You'll have to forgive the lack of additional content here at the moment. This site was mainly designed to demonstrate my competence with 
+                        JavaScript, HTML, CSS, WebGL, and screen compatibility.
+                        If you'd like additional information about my skillset and professional experience, feel free to view my résumé.
                     </p>
                 </div>
             </div >
