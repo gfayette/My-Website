@@ -1,13 +1,3 @@
-@font-face {
-    font-family: 'candara-regular';
-    src        : local('candara-regular'), url(./Website/Fonts/Candara.ttf) format('opentype');
-}
-
-@font-face {
-    font-family: 'candara-italic';
-    src        : local('candara-italic'), url(./Website/Fonts/Candara_Italic.ttf) format('opentype');
-}
-
 html {
     scroll-behavior: smooth
 }
