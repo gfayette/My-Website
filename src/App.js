@@ -23,7 +23,7 @@ class App extends React.Component {
   }
 
   handleLoad = () => {
-    window.addEventListener("resize", this.handleResize)
+    window.addEventListener('resize', this.handleResize)
     this.handleResize()
     this.setState({
       pageLoaded: true,

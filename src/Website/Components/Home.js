@@ -42,13 +42,10 @@ export default class Home extends React.Component {
                     </p>
                     <p style={textcss}>
                         My name is George. I'm a software engineer with experience building applications ranging from small websites for local businesses, 
-                        to enterprise systems for large corporations. I've worked across many areas of the modern technology stack, including front-end mobile and web development, 
-                        back-end APIs and databases, low-level systems programming, and high-level object-oriented applications.
+                        to enterprise systems for large corporations.
 
                     </p>
                     <p style={textcss}>
-                        This site was primarily designed to demonstrate my competence in 
-                        JavaScript, HTML, CSS, and WebGL.
                         If you'd like additional information about my skillset and professional experience, feel free to view my résumé.
                     </p>
                 </div>

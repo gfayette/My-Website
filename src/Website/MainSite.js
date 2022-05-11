@@ -29,7 +29,7 @@ export default class MainSite extends React.Component {
     }
 
     componentDidMount() {
-        window.addEventListener("scroll", this.handleScroll)
+        window.addEventListener('scroll', this.handleScroll)
         this.startLoop()
     }
 
