@@ -46,7 +46,7 @@ export default class Home extends React.Component {
 
                     </p>
                     <p style={textcss}>
-                        If you'd like additional information about my skillset and professional experience, feel free to view my résumé.
+                        If you'd like additional information about my skillset and professional experience, feel free to view my résumé or reach out directly.
                     </p>
                 </div>
             </div >
