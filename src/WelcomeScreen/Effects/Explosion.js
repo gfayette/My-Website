@@ -86,7 +86,7 @@ export default class Explosion {
 
                 frag.vx = vx
                 frag.vy = vy
-                frag.vmult = 1.016
+                frag.vmult = 1.02
 
                 let tx = 1 / xnum
                 let ty = 1 / ynum

@@ -48,15 +48,15 @@ export default class Header extends React.Component {
         return (
             <div id='header' style={outercss}>
                 <div style={leftcss}>
-                    <CubeCanvas cubeWidth={Converter.scale(88, this.props.width)} />
+                    {/* <CubeCanvas cubeWidth={Converter.scale(88, this.props.width)} />*/}
                     <div style={namecss}>
                         George Fayette
                     </div>
                 </div>
                 <div style={rightcss}>
                     <MenuButton name={'Home'} clickHandler={this.props.clickHandler} width={this.props.width} />
-                    <MenuButton name={'Section 1'} clickHandler={this.props.clickHandler} width={this.props.width} />
-                    <MenuButton name={'Section 2'} clickHandler={this.props.clickHandler} width={this.props.width} />
+                    {/* <MenuButton name={'Section 1'} clickHandler={this.props.clickHandler} width={this.props.width} /> */}
+                    {/*<MenuButton name={'Section 2'} clickHandler={this.props.clickHandler} width={this.props.width} /> */}
                     <MenuButton name={'Contact'} clickHandler={this.props.clickHandler} width={this.props.width} />
                     <MenuButton name={'Résumé'} clickHandler={this.props.clickHandler} width={this.props.width} />
                 </div>

@@ -176,8 +176,8 @@ export default class MainSite extends React.Component {
                             exit={{ opacity: 0 }}
                         >
                             <Home width={this.props.width} />
-                            <Section1 width={this.props.width} />
-                            <Section2 width={this.props.width} />
+                            {/* <Section1 width={this.props.width} /> */}
+                            {/* <Section2 width={this.props.width} /> */}
                             <Contact width={this.props.width} height={this.props.height} />
                         </motion.div>)}
                 </div>

@@ -61,8 +61,8 @@ export default class Menu extends React.Component {
                         >
                             <div style={linecss} />
                             <MenuButton name={'Home'} clickHandler={this.props.clickHandler} width={this.props.width} height={this.props.width} />
-                            <MenuButton name={'Section 1'} clickHandler={this.props.clickHandler} width={this.props.width} height={this.props.width} />
-                            <MenuButton name={'Section 2'} clickHandler={this.props.clickHandler} width={this.props.width} height={this.props.width} />
+                            {/* <MenuButton name={'Section 1'} clickHandler={this.props.clickHandler} width={this.props.width} height={this.props.width} /> */}
+                            {/* <MenuButton name={'Section 2'} clickHandler={this.props.clickHandler} width={this.props.width} height={this.props.width} /> */}
                             <MenuButton name={'Contact'} clickHandler={this.props.clickHandler} width={this.props.width} height={this.props.width} />
                             <MenuButton name={'Résumé'} clickHandler={this.props.clickHandler} width={this.props.width} height={this.props.width} />
                         </motion.div>)}

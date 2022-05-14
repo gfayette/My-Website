@@ -41,12 +41,12 @@ export default class Home extends React.Component {
                         Welcome to my website! Allow me to introduce myself... 
                     </p>
                     <p style={textcss}>
-                        My name is George. I'm a software engineer with experience building applications ranging from small websites for local businesses, 
-                        to enterprise systems for large corporations.
-
+                        My name is George. I'm a mid-level software engineer with over 2 years of professional
+                        experience. I also have a background in industrial automation as a controls electrician.
                     </p>
                     <p style={textcss}>
-                        If you'd like additional information about my skillset and professional experience, feel free to view my résumé or reach out directly.
+                        If you'd like additional information about my skillset and professional experience, 
+                        feel free to view my résumé or reach out directly!
                     </p>
                 </div>
             </div >
